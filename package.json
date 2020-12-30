@@ -1,6 +1,6 @@
 {
   "name": "danrowe",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal business card for Daniel Rowe (@DanRowe).",
   "main": "index.js",
   "bin": {
