@@ -1,0 +1,15 @@
+{
+  "name": "danrowe",
+  "version": "0.0.1",
+  "description": "Personal business card for Daniel Rowe (@DanRowe).",
+  "main": "index.js",
+  "bin": {
+    "danrowe": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
