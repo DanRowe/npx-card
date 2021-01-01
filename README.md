@@ -1,5 +1,7 @@
 # Npx danrowe
 
+![Example npx danrowe](example.jpg)
+
 My NPX business card to connect with me through the terminal.
 
 ## Usage
