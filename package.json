@@ -21,7 +21,7 @@
     "npx business card"
   ],
   "author": "Daniel Rowe (https://drowe.dev)",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/DanRowe/npx-card/issues"
   },
