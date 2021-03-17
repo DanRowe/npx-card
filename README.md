@@ -1,8 +1,8 @@
-# Npx danrowe
+# Npx business card
 
 ![Example npx danrowe](example.jpg)
 
-My NPX business card to connect with me through the terminal.
+My Npx business card to connect with me through the terminal.
 
 ## Usage
 
