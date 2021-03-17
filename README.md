@@ -1,4 +1,4 @@
-# Npx business card
+# Npx Business Card
 
 ![Example npx danrowe](example.jpg)
 
