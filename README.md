@@ -12,7 +12,7 @@ Full Card
 npx danrowe
 ```
 
-Json Card
+JSON Card
 
 ```sh
 npx danrowe -j
@@ -20,7 +20,7 @@ npx danrowe -j
 
 ------
 
-## Create your own
+## Create Your Own
 
 Check out this [article](https://studioelsa.se/blog/open-source-oss-npx-business-card/) to understand how creating the cli tool in node works.
 
